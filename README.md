@@ -1,11 +1,14 @@
 # Sveltekit & Tailwind
-* Sveltekit과 Tailwind를 사용해서 간단한 Pokedex를 만들어 보았다.
-* 예전에 Svelte 익히면서 Sapper를 사용했었는데....
-* 이제는 Sveltekit 으로 바뀌었구나!
+- Sveltekit과 Tailwind를 사용해서 간단한 Pokedex를 만들어 보았다.
+- 예전에 Svelte 익히면서 Sapper를 사용했었는데....
+- 이제는 Sveltekit 으로 바뀌었구나!
+
+# Original
+- Youtube: https://youtu.be/UU7MgYIbtAk
 
 # netlify 연동
 - 참고: https://docs.netlify.com/configure-builds/common-configurations/sveltekit/#automatic-framework-detection
-
+- DEMO: https://pokedex.appisode.com 
 
 # create-svelte
 
