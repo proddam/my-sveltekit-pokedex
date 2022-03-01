@@ -3,6 +3,9 @@
 * 예전에 Svelte 익히면서 Sapper를 사용했었는데....
 * 이제는 Sveltekit 으로 바뀌었구나!
 
+# netlify 연동
+- 참고: https://docs.netlify.com/configure-builds/common-configurations/sveltekit/#automatic-framework-detection
+
 
 # create-svelte
 
